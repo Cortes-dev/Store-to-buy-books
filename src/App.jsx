@@ -1,8 +1,13 @@
+import Navbar from "./layouts/Navbar"
 
 
 const App = () => {
   return (
-    <div>Luisillo el pillo</div>
+    <div>
+      <Navbar />
+
+      <h1>Luisillo el pillo</h1>
+      </div>
   )
 }
 
