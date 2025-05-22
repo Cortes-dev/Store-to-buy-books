@@ -1,0 +1,72 @@
+[
+  {
+    "nombre": "Libros",
+    "subcategorias": [
+      "Novedades",
+      "Los más leídos",
+      "Recomendamos",
+      "Ediciones Gandhi",
+      "Libro del mes",
+      "Los Gandhis",
+      "Premio Mauricio Achar",
+      "Selecto",
+      "+50% de descuento"
+    ]
+  },
+  {
+    "nombre": "Niños",
+    "subcategorias": [
+      "Didácticos",
+      "Primeros lectores",
+      "De 0 a 2 años",
+      "De 3 a 5 años",
+      "De 6 a 9 años",
+      "De 10 a 12 años",
+      "Maternidad",
+      "Dinosección"
+    ]
+  },
+  {
+    "nombre": "Literatura y Novelas",
+    "subcategorias": [
+      "Literatura Iberoamericana",
+      "Literatura Universal",
+      "Literatura Mexicana",
+      "Cuentos",
+      "Paquetes y Compilaciones",
+      "Teatro",
+      "Poesía",
+      "Ensayo Literario",
+      "Teoría Literaria",
+      "Novelas en inglés"
+    ]
+  },
+  {
+    "nombre": "Arte",
+    "subcategorias": [
+      "Cine",
+      "Fotografía",
+      "Música",
+      "Arquitectura",
+      "Diseño gráfico"
+    ]
+  },
+  {
+    "nombre": "Gastronomía",
+    "subcategorias": [
+      "Cocina internacional",
+      "Cocina mexicana"
+    ]
+  },
+  {
+    "nombre": "Especializados y diccionarios",
+    "subcategorias": []
+  },
+  {
+    "nombre": "No ficción",
+    "subcategorias": [
+      "Política",
+      "Ensayo"
+    ]
+  }
+]
