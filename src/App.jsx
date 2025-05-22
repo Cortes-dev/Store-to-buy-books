@@ -1,14 +1,20 @@
-import Navbar from "./layouts/Navbar"
+import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 
+import Navbar from "./layouts/Navbar";
+import Librerias from "./views/Librerias";
+import Home from "./views/Home";
 
-const App = () => {
+function App() {
   return (
-    <div>
+    <BrowserRouter>
       <Navbar />
 
-      <h1>Luisillo el pillo</h1>
-      </div>
-  )
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/librerias" element={<Librerias /> } />
+      </Routes>
+    </BrowserRouter>
+  );
 }
 
-export default App
+export default App;
