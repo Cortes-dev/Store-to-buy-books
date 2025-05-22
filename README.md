@@ -1,12 +1,35 @@
-# React + Vite
+# Librerías - Dev 📚
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto está desarrollado con **React + Vite**, utilizando una estructura moderna y optimizada con:
 
-Currently, two official plugins are available:
+- 🔁 Navegación SPA usando `react-router-dom`
+- 🎨 Estilos con Tailwind CSS
+- ⚡ Fetch de datos dinámico con Axios
+- 🧱 Componentes reutilizables organizados por carpetas
+- 🚀 Compatible con Vite para desarrollo rápido y HMR (Hot Module Replacement)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔧 Tecnologías utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React Router DOM](https://reactrouter.com/)
+- [Axios](https://axios-http.com/)
+
+---
+
+## 🚀 ¿Cómo iniciar el proyecto?
+
+1. Clona el repositorio
+
+```bash
+git clone https://github.com/tu-usuario/tu-repo.git
+cd tu-repo
+
+    ×Instala las dependencias con pnpm
+pnpm install
+
+    ×Inicia el servidor de desarrollo
+pnpm dev
